@@ -1,5 +1,5 @@
 the rainbow and the unicorn
-indigo
+
 purple
 red
 pink
@@ -7,5 +7,5 @@ orange
 green
 blue
 yellow
-
+white
 i have added the unicorn in this.
